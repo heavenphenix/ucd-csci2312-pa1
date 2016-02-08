@@ -23,7 +23,7 @@ double computeArea (const Point &a, const Point &b, const Point &c)
   bc = b.distanceTo(c);
   
   double peri;
-  peri = ( ab + ac + bc ) / 2.00;
+  peri = ( ab + ac + bc ) / 2.0;
   
   double area;
   area = sprt ( s * (s - ab) * (s - ac) * (s - bc);
