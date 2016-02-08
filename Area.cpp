@@ -14,7 +14,7 @@ using namespace std;
 double computeArea (const Point &a, const Point &b, const Point &c)
 {
 
-  cout << setprecision(3) << fixed;
+  cout << setprecision(4) << fixed;
   
   double ab, ac, bc;
   // side of triangle
@@ -23,7 +23,7 @@ double computeArea (const Point &a, const Point &b, const Point &c)
   bc = b.distanceTo(c);
   
   double peri;
-  peri = ( ab + ac + bc ) / 2.0;
+  peri = ( ab + ac + bc ) / 2.00;
   
   double area;
   area = sprt ( s * (s - ab) * (s - ac) * (s - bc);
