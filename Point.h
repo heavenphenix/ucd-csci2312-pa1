@@ -1,6 +1,6 @@
 // A 2-dimensional point class!
 // Coordinates are double-precision floating point.
-// changed 
+// changed to 3 dimensions
 
 
 #ifndef __POINT_H
