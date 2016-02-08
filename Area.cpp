@@ -14,7 +14,7 @@ using namespace std;
 double computeArea (const Point &a, const Point &b, const Point &c)
 {
 
-  cout << setprecision(4) << fixed;
+  cout << setprecision(2) << fixed;
   
   double ab, ac, bc;
   // side of triangle
