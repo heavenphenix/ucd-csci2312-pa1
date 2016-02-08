@@ -33,11 +33,11 @@ public:
     };
     
     // Accessor methods
-    double Point::getX() const
+    double Point::getX() const;
     
-    double Point::getY() const
+    double Point::getY() const;
     
-    double Point::getZ() const
+    double Point::getZ() const;
 };
 
 double Point::distanceTo (const Point &) const
