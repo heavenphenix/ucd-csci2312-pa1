@@ -147,3 +147,6 @@ An autograding script will test your class on a variety of inputs and assign a g
 <font size="-1">ACKNOWLEDGEMENT: Modelled after CS11 Lab 1 at Caltech.</font>
 
 <font size="-1">Some content Copyright (C) 2004-2010, California Institute of Technology.</font>
+
+
+it works well, might have some small errors.
